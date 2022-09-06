@@ -110,18 +110,18 @@ enum led_location_map {
     LED_DEL, // 72, Del, k65
     LED_L3, // 73, LED, l03
     LED_R3, // 74, LED, l13
-    LED_POWER, // 75, PgUp, k15
+    LED_LNUP, // 75, PgUp, k15
     LED_L4, // 76, LED, l04
     LED_R4, // 77, LED, l14
     LED_EQL, // 78, =, k66
     LED_RIGHT, // 79, Right, k05
     LED_L5, // 80, LED, l05
     LED_R5, // 81, LED, l15
-    LED_LNDN, // 82, End, k75
+    LED_POWER, // 82, End, k75
     LED_L6, // 83, LED, l06
     LED_R6, // 84, LED, l16
     LED_BSPC, // 85, BSpc, ka1
-    LED_LNUP, // 86, PgDn, k25
+    LED_LNDN, // 86, PgDn, k25
     LED_L7, // 87, LED, l07
     LED_R7, // 88, LED, l17
     LED_RBRC, // 89, ], k61
